@@ -1,0 +1,38 @@
+.footer{
+    background-color: #2B353D;
+    color: white;
+    padding: 20px 0;
+}
+
+.footer h5{
+    margin-bottom: 15px;
+}
+
+.footer .social-icons a{
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+.footer .social-icons a:hover{
+    color: #F9C23C;
+}
+
+.footer .map{
+    width: 100%;
+    max-width: 150px;
+    border-radius: 5px;
+}
+
+.footer p{
+    margin: 5px 0;
+}
+.enlaces{
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+}
+
+.enlaces:hover{
+    color: #F9C23C;
+}
